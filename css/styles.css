@@ -1,0 +1,21 @@
+.map-box{
+	text-align:center;margin-left:-15px;margin-right:-30px;margin-bottom:-25px;
+}
+.vn-map{
+	width: 100%;margin-top:-30px;
+}
+@media screen and (max-width: 1024px) {
+	.map-box{
+		margin-right:-5px;margin-bottom:0px;
+	}
+}
+@media screen and (max-width: 540px) {
+	.map-box{
+		margin-right:-10px;margin-bottom:0px;
+	}
+}
+@media screen and (max-width: 360px) {
+	.map-box{
+		margin-right:0px;margin-left:0px;
+	}
+}
